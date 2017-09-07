@@ -1,0 +1,36 @@
+body {
+      font-size:14px; margin:0;
+      width: 100%;
+     
+}
+
+.titulo {
+      color:#003366;
+      font-family:mangal; 
+      text-transform: uppercase;
+      font-size: 200%;  
+      font-weight: bold;
+     }
+
+.texto_titulo {
+      color:#003366;
+      font-family:Felix Titling; 
+      text-transform: uppercase;    
+      font-size: 13px;
+   
+     }
+
+.texto {
+      color:#003366;
+      font-family:mangal; 
+      text-transform: uppercase;    
+      font-size: 12px;
+     }
+     
+.texto_formulario {
+  color: #003366;
+  font-size: 12px;
+  font-family: mangal;
+  text-align: left;
+  text-transform: uppercase;
+}

@@ -1,0 +1,138 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	background-image: url(../img/bg_body.png);
+}
+#header {
+	width: 100%;
+	margin: 0px;
+	height: 200px;
+	background-image: url(../img/header.jpg);
+	background-position: 50% 0%;
+	background-repeat: no-repeat;
+	border-bottom: 5px solid #FFFFFF;
+	-webkit-box-shadow: 0 3px 10px 3px #A7A7A7;
+	box-shadow: 0 3px 10px 3px #A7A7A7;
+	background-color: #2F2F2F;
+	background-size: 100% auto;
+}
+#contenido {
+	width: 960px;
+	top: 0px;
+	background-color: #FFFFFF;
+	height: 680px;
+	-webkit-box-shadow: 0px 3px 10px 0px #A7A7A7;
+	box-shadow: 0px 3px 10px 0px #A7A7A7;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	margin-bottom: 0px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	-moz-border-radius-bottomright: 10px;
+	
+}
+#contenido h1 {
+	color: #505050;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 14pt;
+	line-height: 10px;
+	margin-left:30px;
+}
+#contenido p {
+	color: #777777;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 10pt;
+	line-height: 10px;
+	margin-left:30px;
+}
+
+#caja_icono:hover {
+	/*cursor:pointer;
+	background-color: #021461;
+	border: 2px solid #021461;*/
+	
+}
+
+#caja_icono {
+	width: 200px;
+	height: 180px;
+	
+	float: left;
+	margin-left: 30px;
+	margin-top: 32px;
+}
+#icono {
+	width: 200px;
+	height: 100px;
+	background-color: #2F2F2F;
+	border: 2px solid #131313;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-webkit-box-shadow: 3px 3px 10px 10px #CCCCCC;
+	box-shadow: 3px 3px 15px 5px #CCCCCC;
+	text-decoration: none;
+}
+#texto   {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	line-height: 20px;
+	font-size: 12pt;
+	vertical-align: middle;
+	text-decoration: none;
+	color: #2E2E2E;
+	margin-top: 10px;
+}
+
+img {
+	margin-top:20px;
+	margin-left:36px;
+}
+.agenda {
+	background-image: url(../img/agenda.png);
+	background-repeat: no-repeat;
+}
+.saus {
+	background-image: url(../img/saus.png);
+	background-repeat: no-repeat;
+}
+.laboral {
+	background-image: url(../img/laboral.png);
+	background-repeat: no-repeat;
+}
+.intranet {
+	background-image: url(../img/intranet.png);
+	background-repeat: no-repeat;
+}
+.email {
+	background-image: url(../img/mail.png);
+	background-repeat: no-repeat;
+}
+.sigres {
+	background-image: url(../img/sigres.png);
+	background-repeat: no-repeat;
+}
+.sigper {
+	background-image: url(../img/sigper.png);
+	background-repeat: no-repeat;
+}
+.hora_sala {
+	background-image: url(../img/hora_sala.png);
+	background-repeat: no-repeat;
+}
+.diario {
+	background-image: url(../img/diario.png);
+	background-repeat: no-repeat;
+}
+.permiso {
+	background-image: url(../img/permiso.png);
+	background-repeat: no-repeat;
+}
